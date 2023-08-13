@@ -3,7 +3,7 @@
 
 # WeatherWizard
 
-<img src="https://github.com/dsm5e/WeatherWizard/assets/88927934/bc164685-992e-4889-b46b-0287f0521232" width="900">
+<img src="https://github.com/dsm5e/WeatherWizard/assets/88927934/6ab6b018-6d0c-47c2-a8ed-61940256a39e" width="900">
 
 ---
 
@@ -15,6 +15,6 @@
 
 ---
 
-<img width="1670" alt="2023-08-12_22 22 17" src="https://github.com/dsm5e/WeatherWizard/assets/88927934/24fe4dc1-ffb3-460a-8997-e38e9ae4e479">
+<img width="1670" alt="2023-08-12_22 22 17" src="https://github.com/dsm5e/WeatherWizard/assets/88927934/339735eb-3ded-4af5-8608-555d6b4d3679">
 
 ---
