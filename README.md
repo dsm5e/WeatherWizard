@@ -7,7 +7,6 @@
 
 ---
 
-**CHALLENGE №1 “БОМБА” [(SWIFTMARATHON 8.0)](https://t.me/swiftmarathon)**
 * Проект на Swift 5
 * Минимальная поддерживаемая iOS – 15
 * Архитектура MVVM
